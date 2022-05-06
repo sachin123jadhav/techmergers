@@ -1,0 +1,12 @@
+footer{background-color: #000; color: #fff; font-size: 18px;}
+footer h3{ font-size: 22px; line-height: 35px; text-transform: uppercase;}
+footer ul.footer-list{ list-style-type: none;padding-left: 0;}
+footer ul.footer-list li{}
+footer ul.footer-list li a::before{ content: '\203A'; font-size: 25px; padding-right: 10px;}
+footer a{color: #fff; text-decoration: none;}
+footer a:hover{color: #ccc;}
+footer .footer-nav{padding: 25px 0; border-bottom: solid 1px #ccc;}
+.footer-copy{padding: 15px 0;}
+.footer-social{justify-content: flex-end; margin-bottom: 0;}
+.footer-social a{font-size: 25px;}
+.footer-social li:not(:first-child){margin-left: 15px;}
